@@ -5,8 +5,6 @@ Thanks for contributing!
 ## Setup
 ```bash
 git clone https://github.com/EvezArt/evez-bot.git
-cd evez-bot
-npm install
 ```
 ## Making Changes
 1. Create a feature branch
